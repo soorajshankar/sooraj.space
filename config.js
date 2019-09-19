@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: "/",
   title: "Sooraj's Space",
   subtitle: "Web Maker, FrontEnd Engineer, IoT Designer",
-  copyright: "© All rights reserved.",
+  copyright: "2019© All rights reserved.",
   disqusShortname: "",
   postsPerPage: 4,
   googleAnalyticsId: "UA-33079947-10",
