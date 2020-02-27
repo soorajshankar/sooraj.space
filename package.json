@@ -4,6 +4,7 @@
   "description": "personal portfolio",
   "main": "n/a",
   "scripts": {
+    "start": "yarn run develop",
     "develop": "yarn run clean && gatsby develop",
     "build": "yarn run clean && gatsby build",
     "deploy": "yarn run clean && gatsby build --prefix-paths && gh-pages -d public",
