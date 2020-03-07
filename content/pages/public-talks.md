@@ -1,7 +1,7 @@
 ---
 template: page
 title: 'Public Talks '
-slug: publictalks
+slug: talks
 draft: true
 ---
 1. ## **Web Bluetooth: How your browser can become an IoT Gateway?**
