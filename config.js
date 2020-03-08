@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: "/",
   title: "Sooraj's Space",
   subtitle: "Web Maker, FrontEnd Engineer, IoT Designer",
-  copyright: "2019© All rights reserved.",
+  copyright: "2020 © All rights reserved.",
   disqusShortname: "",
   postsPerPage: 4,
   googleAnalyticsId: "UA-33079947-10",
@@ -18,12 +18,17 @@ module.exports = {
     {
       label: "About me",
       path: "/pages/about"
+    },
+    {
+      label: "Public Talks",
+      path: "/talks"
     }
   ],
   author: {
     name: "Sooraj Sanker",
     photo: "/photo.jpg",
-    bio: "Work for Web Performance, Smooth FrontEnd Experience, Beautiful Mobile Applications, Secure IoT Systems",
+    bio:
+      "Work for Web Performance, Smooth FrontEnd Experience, Beautiful Mobile Applications, Secure IoT Systems",
     contacts: {
       email: "soorajshankar@gmail.com",
       telegram: "soorajshankar",
