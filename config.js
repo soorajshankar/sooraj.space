@@ -6,23 +6,23 @@ module.exports = {
   title: "Sooraj's Space",
   subtitle: "Web Maker, FrontEnd Engineer, IoT Designer",
   copyright: "2020 © All rights reserved.",
-  disqusShortname: "",
+  disqusShortname: "sooraj-space",
   postsPerPage: 4,
   googleAnalyticsId: "UA-33079947-10",
   useKatex: false,
   menu: [
     {
       label: "Articles",
-      path: "/"
+      path: "/",
     },
     {
       label: "About me",
-      path: "/pages/about"
+      path: "/pages/about",
     },
     {
       label: "Public Talks",
-      path: "/talks"
-    }
+      path: "/talks",
+    },
   ],
   author: {
     name: "Sooraj Sanker",
@@ -40,7 +40,7 @@ module.exports = {
       instagram: "soorajshankar",
       line: "",
       gitlab: "",
-      weibo: ""
-    }
-  }
+      weibo: "",
+    },
+  },
 };
