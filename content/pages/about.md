@@ -4,10 +4,12 @@ title: About me
 slug: about-me
 draft: false
 ---
-Mostly working for a simple Imaginary order.
+A human working on Imaginary order.
 
-Like easy to use technology or something which makes it easy. 
+I am passionate about startups, like awesome products, a fan of tools which increases the productivity. 
 
-Speaks mostly JS and related functional languages, amazed with IoT world and the possibilities of mass automation.
+I like JS, functional programming, IoT, and automation.
 
-Some of my favorite tags are #JS #FrontEnd #IoT #Android #Cloud #Serverless #JamStack
+Co founded a sass model student startup shoutcloud.org.  
+
+Some of my favorite tags are #JS #FrontEnd #DesignSystems #IoT #Android #Cloud #Serverless #SystemDesign
