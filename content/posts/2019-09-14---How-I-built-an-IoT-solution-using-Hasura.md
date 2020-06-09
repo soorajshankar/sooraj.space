@@ -3,7 +3,7 @@ title: How I built an IoT solution using Hasura?
 date: "2019-09-14T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/hasura-iot/"
+slug: "iot-solution-using-hasura"
 category: "IoT"
 tags:
   - "GraphQL"

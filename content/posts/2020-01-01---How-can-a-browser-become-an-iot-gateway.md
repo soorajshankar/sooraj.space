@@ -3,7 +3,7 @@ title: How can a browser become an IoT Gateway?
 date: "2020-01-01T22:00:21.123Z"
 template: "post"
 draft: false
-slug: "/posts/web-ble/"
+slug: "how-can-a-browser-become-an-iot-gateway"
 category: "WebBLE"
 tags:
   - "Web"
@@ -67,28 +67,28 @@ IoT Gateway can
   - Native File system API can be used to dump raw data for future reference
   - Fall back mechanism can be written to ensure the data is either successfully sent to the cloud or stored locally.
   - Connectivity callbacks and event handlers are much simpler within the browser.
+
 - Remote Debugging
   - Remote Debugging and analysis is much much simpler with advanced JavaScript analytics tools
   - Chrome allows remote debugging port, so that you can monitor your gateway more like a server.
 - BLE Debugging
   - https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web#dev_tips
 
-
-- Edge Computing (Aggregation, Averaging etc.)
+* Edge Computing (Aggregation, Averaging etc.)
   -JavaScript can do this in all modern web browsers.
+
   - Complex data structures and algorithms are processed in modern PWA’s
   - Threading, Task Queue and Call Stack is managed by the browser :)
 
-- Anomaly detection 
+* Anomaly detection
+
   - High frequency data stream can be passed through a trained ML model for anomaly detection.
   - Libraries like TensorflowJS can be used.
   - Realtime retraining logic can also be written.
 
-- Edge Analytics and Predictions
+* Edge Analytics and Predictions
   - Data stream can be passed through the ML models to predict futuristic output.
   - Predictions can be made using AI & ML libraries like tensorflow JS
-  - Retraining and replacing new ML models are possible 
-
+  - Retraining and replacing new ML models are possible
 
 IoT gateways are something which connects IoT devices and IoT cloud
-

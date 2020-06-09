@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://sooraj.space',
-  pathPrefix: '/',
+  pathPrefix: '',
   title: 'Sooraj\'s Space',
   subtitle: 'Web Maker, FrontEnd Engineer, IoT Designer',
   copyright: '2020 © All rights reserved.',
@@ -17,11 +17,11 @@ module.exports = {
     },
     {
       label: 'About me',
-      path: '/pages/about',
+      path: '/pages/about-me',
     },
     {
       label: 'Public Talks',
-      path: '/talks',
+      path: '/pages/talks',
     },
   ],
   author: {
@@ -37,6 +37,8 @@ module.exports = {
       facebook: '#',
       rss: '',
       vkontakte: '',
+      linkedin: 'sooraj-sanker-41a51144',
+      instagram: 'soorajshankar',
       line: '',
       gitlab: '',
       weibo: '',
