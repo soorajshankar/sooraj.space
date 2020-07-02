@@ -4,10 +4,11 @@ title: About me
 slug: about-me
 draft: false
 ---
-Mostly working for a simple Imaginary order.
 
-Like easy to use technology or something which makes it easy. 
+a passionate javascript developer. works mostly for web performance, smooth system designs, beautiful design systems, secure & fast IoT solutions, etc.
 
-Speaks mostly JS and related functional languages, amazed with IoT world and the possibilities of mass automation.
+I love contributing to awesome open source projects, sometimes creating useful libraries.
 
-Some of my favorite tags are #JS #FrontEnd #IoT #Android #Cloud #Serverless #JamStack
+played founder and co-founder roles, and a startup enthusiast. I love to explore the startup world and its cool products.
+
+Like product designs, development, and useful solutions.
