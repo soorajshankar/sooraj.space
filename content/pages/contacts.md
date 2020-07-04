@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/media/image-4.jpg"
 ---
 
-Find me on :)
+Find me on 
 
 - [Twitter](https://twitter.com/soorajshankar)
 - [Github](https://github.com/soorajshankar)
