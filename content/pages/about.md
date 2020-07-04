@@ -5,7 +5,7 @@ slug: about-me
 draft: false
 ---
 
-a passionate javascript developer. works mostly for web performance, smooth system designs, beautiful design systems, secure & fast IoT solutions, etc.
+A human, write javascript for living. works mostly for web performance, smooth system designs, beautiful design systems, secure & fast IoT solutions, etc.
 
 I love contributing to awesome open source projects, sometimes creating useful libraries.
 
